@@ -1,1 +1,130 @@
-
+[
+    {
+        "Name": "Deepesh Patel",
+        "Email": "itzdeepeshpatel@gmail.com",
+        "Enrollment Number": "0827AL241044",
+        "Class": "ALS-1",
+        "Github Repository Link": "https://github.com/deepesh-45/portfolio-deepesh-patel",
+        "Live Deployed Link ": "https://portfolio-deepesh-patel.vercel.app/"
+    },
+    {
+        "Name": "Sarvesh Patil",
+        "Email": "sarveshpatil12p@gmail.com",
+        "Enrollment Number": "0827AL241114",
+        "Class": "ALS-2",
+        "Github Repository Link": "https://github.com/sarveshpatil12p-bot/portfolio-sarvesh-patil",
+        "Live Deployed Link ": "https://sarveshpatil12p-bot.github.io/portfolio-sarvesh-patil/"
+    },
+    {
+        "Name": "Avesh Malviya",
+        "Email": "aveshmalviya240600@acropolis.in",
+        "Enrollment Number": "0827AL241035",
+        "Class": "ALS-1",
+        "Github Repository Link": "https://github.com/AveshMalviya/portfolio-avesh-malviya",
+        "Live Deployed Link ": "https://anveshmalviyaportfolio.vercel.app/"
+    },
+    {
+        "Name": "Utkarsh Sathe",
+        "Email": "utkarshsathe240795@acropolis.in",
+        "Enrollment Number": "0827AL241139",
+        "Class": "ALS-2",
+        "Github Repository Link": "https://github.com/utkarshsathe28/portfolio-utkarsh-sathe-74ed0a6c",
+        "Live Deployed Link ": "https://portfolio-utkarsh-sathe-74ed0a6c-d1x2yz0du-utkarsh-sathe.vercel.app"
+    },
+    {
+        "Name": "Aryan Mandloi",
+        "Email": "aryanmandloi1202@gmail.com",
+        "Enrollment Number": "0827AL241028",
+        "Class": "ALS-1",
+        "Github Repository Link": "https://github.com/Aryan-Mandloi/portfolio-aryan-mandloi",
+        "Live Deployed Link ": "https://portfolio-aryan-mandloi-t2.vercel.app/"
+    },
+    {
+        "Name": "Satyendra Singh Thakur",
+        "Email": "satyendrathakur251347@acropolis.in",
+        "Enrollment Number": "0827AL253D08",
+        "Class": "ALS-2",
+        "Github Repository Link": "https://github.com/Satyendra015/portfolio-satyendra-singh-thakur-9af4cce6",
+        "Live Deployed Link ": "https://portfolio-satyendra-singh-thakur-9a-phi.vercel.app/"
+    },
+    {
+        "Name": "Prithviraj Singh Bais",
+        "Email": "prithvirajsingh241453@acropolis.in",
+        "Enrollment Number": "0827AL241097",
+        "Class": "ALS-2",
+        "Github Repository Link": "https://github.com/baisprathviraj9-art/MY-PORTFOLIO",
+        "Live Deployed Link ": "https://my-portfolio-seven-kohl-18.vercel.app/"
+    },
+    {
+        "Name": "Prithviraj Singh Chouhan",
+        "Email": "dipendrsinghchouhan@gmail.com",
+        "Enrollment Number": "0827AL241098",
+        "Class": "ALS-2",
+        "Github Repository Link": "https://github.com/PrithvirajChouhan-tech/Portfolio_Sprint.git",
+        "Live Deployed Link ": "https://prithviraj-portfolio-phi.vercel.app/"
+    },
+    {
+        "Name": "Viral Jain",
+        "Email": "viraljain240166@acropolis.in",
+        "Enrollment Number": "0827AL241151",
+        "Class": "ALS-1",
+        "Github Repository Link": "viral15-dot/mod-my-bits",
+        "Live Deployed Link ": "https://mod-my-bits.vercel.app/"
+    },
+    {
+        "Name": "Aditya Choudhary",
+        "Email": "aditya.choudhary1409@gmail.com",
+        "Enrollment Number": "0827AL241008",
+        "Class": "ALS-1",
+        "Github Repository Link": "https://github.com/Adityachoudhary1506/Portfolio-",
+        "Live Deployed Link ": "https://portfolio-five-mu-wnx44b5trs.vercel.app/"
+    },
+    {
+        "Name": "Piyush Patidar",
+        "Email": "p53649202@gmail.com",
+        "Enrollment Number": "0827AL241090",
+        "Class": "ALS-2",
+        "Github Repository Link": "https://github.com/p53649202-dot/My-Portfolio.git",
+        "Live Deployed Link ": "https://my-portfolio-n3tx.vercel.app/"
+    },
+    {
+        "Name": "Chirag Katariya",
+        "Email": "chirag2006katariya@gmail.com",
+        "Enrollment Number": "0827AL241041",
+        "Class": "ALS-1",
+        "Github Repository Link": "https://github.com/chirag18-n/Portfolio",
+        "Live Deployed Link ": "https://portfolio-k6qgyg2mw-chirag2006katariya-5854s-projects.vercel.app/#home"
+    },
+    {
+        "Name": "Mahak Khandelwal",
+        "Email": "mahakkhandelwal240935@acropolis.in",
+        "Enrollment Number": "0827AL241074",
+        "Class": "ALS-1",
+        "Github Repository Link": "https://github.com/khandelwalmahak30-prog/Portfolio-Mahak-Khandelwal",
+        "Live Deployed Link ": "https://mahak-portfolio-omega.vercel.app/"
+    },
+    {
+        "Name": "Tanishq Buley",
+        "Email": "tanishqbuley241121@acropolis.in",
+        "Enrollment Number": "0827AL241137",
+        "Class": "ALS-2",
+        "Github Repository Link": "github.com/tanishqbuley74-bot/portfolio-Tanishq-Buley",
+        "Live Deployed Link ": "Portfolio-tanishq-buley-pq9ijk5fk.vercel.app"
+    },
+    {
+        "Name": "Anamika Sharma",
+        "Email": "anamikasharma240323@acropolis.in",
+        "Enrollment Number": "0827AL241017",
+        "Class": "ALS-1",
+        "Github Repository Link": "https://github.com/anamikaa-17/portfolio-anamika-sharma",
+        "Live Deployed Link ": "https://portfolio-anamika-sharma.vercel.app/"
+    },
+    {
+        "Name": "Vaishnavi Lohana",
+        "Email": "parilohana009@gmail.com",
+        "Enrollment Number": "0827AL241140",
+        "Class": "ALS-2",
+        "Github Repository Link": "https://github.com/parilohana009-afk/vaishnavi-s-digital-canvas",
+        "Live Deployed Link ": "https://vaishnavi-s-digital-canvas-eygm.vercel.app/"
+    }
+]
