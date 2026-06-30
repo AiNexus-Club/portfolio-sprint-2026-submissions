@@ -598,5 +598,21 @@
         "Class": "ALS-1",
         "Github Repository Link": "https://github.com/Manushi30/portfolio",
         "Live Deployed Link ": "https://portfolio-git-main-manushi-s-projects.vercel.app/"
+    },
+    {
+        "Name": "Vani Chhalotre",
+        "Email": "chhalotrevani@gmail.com",
+        "Enrollment Number": "0827AL241141",
+        "Class": "ALS-2",
+        "Github Repository Link": "https://github.com/chhalotrevani-ux/Portfolio-Vani-Chhalotre",
+        "Live Deployed Link ": "https://chhalotrevani-ux.github.io/Portfolio-Vani-Chhalotre/"
+    },
+    {
+        "Name": "Rishikesh Karkhanis",
+        "Email": "rishikeshkarkhanis240005@acropolis.in",
+        "Enrollment Number": "0827AL241104",
+        "Class": "ALS-2",
+        "Github Repository Link": "https://github.com/RishikeshKarkhanis/rishikesh-karkhanis-portfolio",
+        "Live Deployed Link ": "https://rishikesh-karkhanis-portfolio.vercel.app/"
     }
 ]
