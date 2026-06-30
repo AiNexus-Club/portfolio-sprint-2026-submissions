@@ -153,7 +153,7 @@ Participants deployed their portfolios using:
 * **Shubh Giri Goswami** — https://github.com/Shubhgoswami27/portfolio
 * **Rishika Patel** — https://github.com/Rishika29005/portfolio-rishika-patel
 * **Manushi Purohit** — https://github.com/Manushi30/portfolio
-* * **Rishikesh Karkhanis** — https://github.com/RishikeshKarkhanis/rishikesh-karkhanis-portfolio
+* **Rishikesh Karkhanis** — https://github.com/RishikeshKarkhanis/rishikesh-karkhanis-portfolio
 
 > Invalid, local (`localhost`, `file:///`), placeholder (`N/A`) and duplicate repository entries have been omitted for clarity.
 
